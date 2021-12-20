@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Dino Battle - Play to earn free",
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -61,12 +61,13 @@
     },
     "favicon": false,
     "mbrsiteDomain": "phe6vaz1pd",
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://dinobattle.one",
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n"
   },
   "pages": {
     "index.html": {
